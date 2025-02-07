@@ -1,2 +1,2 @@
 #!/bin/bash
---symbolic /bin/ls/_ls_
+--symbolic basics/bin/ls/_ls_
