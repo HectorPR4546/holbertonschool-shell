@@ -1,2 +1,2 @@
-#!/bin/bas
-cat tail -n 3 iacta
+#!/bin/bash
+tail -n 3 iacta
