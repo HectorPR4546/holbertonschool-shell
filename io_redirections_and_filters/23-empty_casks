@@ -1,2 +1,2 @@
 #!/bin/bash
-find | rev | cut -d | sort | rev
+find /path/ -empty -type d | wc -l
