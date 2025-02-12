@@ -1,2 +1,2 @@
 #!/bib/bash
-ls -la | sort "users"
+ls -l | sort "users"
