@@ -1,2 +1,2 @@
 #!/bib/bash
-ls -l | sort "users"
+ls -l | sort "users" /etc/passwd
