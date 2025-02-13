@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUE=128 sum=$(($TRUEKNOWLEDGE + $TRUE)) | echo $sum
+TRUE=128 sum=$(($TRUEKNOWLEDGE + $TRUE)) | echo $sum
