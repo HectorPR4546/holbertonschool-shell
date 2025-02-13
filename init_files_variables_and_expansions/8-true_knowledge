@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv | export TRUEKNOWLEDGE=1209 | export 128=TRUEKNOWLEDGE | cat -e
+ export TRUEKNOWLEDGE=1209 | export 128=TRUEKNOWLEDGE | printenv
